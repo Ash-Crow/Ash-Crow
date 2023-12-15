@@ -1,7 +1,7 @@
 ### Hi, I'm Ash 👋
 I am a freelance Python 🐍 developer living in Paris.
 
-- 🔭 I’m currently working on integrating the French government Design System with Django ([django-dsfr](https://github.com/numerique-gouv/django-dsfr) and Wagtail ([content-manager](https://github.com/numerique-gouv/content-manager). 
+- 🔭 I’m currently working on integrating the French government Design System with Django ([django-dsfr](https://github.com/numerique-gouv/django-dsfr)) and Wagtail ([content-manager](https://github.com/numerique-gouv/content-manager)). 
 - 🔍 To find more about me, see [my personal site](https://ash.bzh) or my [professional portfolio](https://boissel.dev)
 
 
