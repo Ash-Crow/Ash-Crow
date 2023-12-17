@@ -5,7 +5,7 @@ I am a freelance Python 🐍 developer living in Paris.
 - 🔍 To find more about me, see [my personal site](https://ash.bzh) or my [professional portfolio](https://boissel.dev)
 
 #### My skills
-[![My Skills](https://skillicons.dev/icons?i=python, html,html,css,js,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,,html,css,js)](https://skillicons.dev)
 
 #### Data
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ash-crow&hide=stars&show_icons=true&count_private=true&layout=compac)
