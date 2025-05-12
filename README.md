@@ -12,6 +12,12 @@ I am a freelance Python 🐍 developer living in Paris.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ash-crow&size_weight=0.5&count_weight=0.5&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ash-Crow&theme=transparent&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
+
+#### Star History
+
+...of some of the projects I've worked on
+
+[![Star History Chart](https://api.star-history.com/svg?repos=numerique-gouv/django-dsfr,numerique-gouv/sites-faciles,entrepreneur-interet-general/opencollectivites,MTES-MCT/aides-territoires&type=Date)](https://www.star-history.com/#numerique-gouv/django-dsfr&numerique-gouv/sites-faciles&entrepreneur-interet-general/opencollectivites&MTES-MCT/aides-territoires&Date)
 <!--
 **Ash-Crow/Ash-Crow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
